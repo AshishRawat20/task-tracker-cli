@@ -1,3 +1,4 @@
 /target/*
 TaskTracker.iml
 .idea
+dependency-reduced-pom.xml
